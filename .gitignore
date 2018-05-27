@@ -1,2 +1,4 @@
 this.code-workspace
 test_files/*
+*.pyc
+.vscode/*
